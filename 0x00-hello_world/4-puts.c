@@ -2,13 +2,10 @@
 
 /**
  *main - main block
- *
  *Return: 0
- *
  */
 int main(void)
 {
-	puts("\"Programming is ike building 
-a multilingual puzzle");
+	puts("\"Programming is ike building a multilingual puzzle");
 	return (0);
 }
