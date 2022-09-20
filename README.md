@@ -1,1 +1,1 @@
-A new repository for low level programming in C
+This directorycontains project on C strings,arrays and pointers
