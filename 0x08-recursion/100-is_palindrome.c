@@ -27,10 +27,10 @@ int palcheck(int x, int y, char *s)
 	return (palcheck(x + 1, y, s));
 }
 /**
- *  * is_palindrome - check if a string is a palindrome
- *   * @s: string
- *    * Return: 1 if s is a palindrome otherwise 0
- *     */
+ * is_palindrome - check if a string is a palindrome
+ * @s: string
+ * Return: 1 if s is a palindrome otherwise 0
+ **/
 int is_palindrome(char *s)
 {
 	int i = _strlen_recursion(s);
