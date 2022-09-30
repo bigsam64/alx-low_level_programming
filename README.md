@@ -1,1 +1,1 @@
-more projects on c argc_argv
+This is a repo containing projects to build my hands on C
